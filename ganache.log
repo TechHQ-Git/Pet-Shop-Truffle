@@ -1,0 +1,33 @@
+Ganache CLI v6.1.3 (ganache-core: 2.1.2)
+
+Available Accounts
+==================
+(0) 0x70b17cbf72f2934a0b545223624cb43850f809e1
+(1) 0xa501f02c4ceee42a4da5d47b146b5248e72b57dd
+(2) 0x2cc24fa94bcd65986b8c4351aa9bd981b8c06e6b
+(3) 0x5dc8a042d2cc97339ef71e67ed2243450ad632f6
+(4) 0xcd3009899c5225f9754ead17003ec28caec39d83
+
+Private Keys
+==================
+(0) 85d06a469f072f65d56361e04ee0500e5a3e4159a3a49aa932a867473f76a374
+(1) 5a2b3c1f77f969786a4ac8daed4247bbbd4099c7fd4211d16a8a5955cb5f206e
+(2) 09135b6d1752a6156bb31d46238c80bc70e3972192739ad9ca1123b7a7f7cf98
+(3) 672d790466d7a3cb18afbb4c6b7e84beccb9aaffb62822597b59e0c11d177596
+(4) 4cecea27377671a341626d50d17cb4c655ca3e946c52f852394a1459a9b954fc
+
+HD Wallet
+==================
+Mnemonic:      multiply hair foam march bounce media detect bullet slight cradle observe water
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Gas Price
+==================
+20000000000
+
+Gas Limit
+==================
+6721975
+
+Listening on localhost:8545
+

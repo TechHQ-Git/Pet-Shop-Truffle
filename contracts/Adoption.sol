@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
 contract Adoption {
-    address[16] private adopters;
+    address[16] public adopters;
 
     function adopt(uint256 petId) external returns(uint256) {
         require(petId >= 0 && petId <= 15);
